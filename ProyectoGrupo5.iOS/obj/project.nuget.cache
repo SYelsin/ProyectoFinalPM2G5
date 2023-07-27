@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7BgTnzvOCbouEeABYRdQ99LLSyWnV7Cj9HbcTVy1qrR9x3hFBYCkSbn8kIc639vGkwItAfq34I2DmFPRmr+rA==",
+  "success": true,
+  "projectFilePath": "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MelekSibrian\\.nuget\\packages\\carouselview.formsplugin\\6.0.0\\carouselview.formsplugin.6.0.0.nupkg.sha512",
+    "C:\\Users\\MelekSibrian\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\MelekSibrian\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\MelekSibrian\\.nuget\\packages\\xamarin.essentials\\1.7.6\\xamarin.essentials.1.7.6.nupkg.sha512",
+    "C:\\Users\\MelekSibrian\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512",
+    "C:\\Users\\MelekSibrian\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}
