@@ -25,10 +25,10 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638259971206676824
+_nugetassetstimestamp=638272210158245705
 typemapkind=strings-asm
 androidsupportedabis=armeabi-v7a
 x86_64
 arm64-v8a
 androidmanifestplaceholders=
-projectfullpath=c:\pm2\plantilla\template\proyectogrupo5.android\proyectogrupo5.android.csproj
+projectfullpath=c:\users\yelsi\source\repos\proyectofinalpm2g5b\proyectogrupo5.android\proyectogrupo5.android.csproj

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj": {}
+    "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj": {}
   },
   "projects": {
-    "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj": {
+    "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj",
         "projectName": "ProyectoGrupo5.iOS",
-        "projectPath": "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj",
-        "packagesPath": "C:\\Users\\MelekSibrian\\.nuget\\packages\\",
-        "outputPath": "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5.iOS\\obj\\",
+        "projectPath": "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5.iOS\\ProyectoGrupo5.iOS.csproj",
+        "packagesPath": "C:\\Users\\yelsi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MelekSibrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yelsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5\\ProyectoGrupo5.csproj": {
-                "projectPath": "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5\\ProyectoGrupo5.csproj"
+              "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5\\ProyectoGrupo5.csproj": {
+                "projectPath": "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5\\ProyectoGrupo5.csproj"
               }
             }
           }
@@ -76,20 +76,20 @@
         }
       }
     },
-    "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5\\ProyectoGrupo5.csproj": {
+    "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5\\ProyectoGrupo5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5\\ProyectoGrupo5.csproj",
+        "projectUniqueName": "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5\\ProyectoGrupo5.csproj",
         "projectName": "ProyectoGrupo5",
-        "projectPath": "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5\\ProyectoGrupo5.csproj",
-        "packagesPath": "C:\\Users\\MelekSibrian\\.nuget\\packages\\",
-        "outputPath": "C:\\pm2\\plantilla\\Template\\ProyectoGrupo5\\obj\\",
+        "projectPath": "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5\\ProyectoGrupo5.csproj",
+        "packagesPath": "C:\\Users\\yelsi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yelsi\\source\\repos\\ProyectoFinalPM2G5b\\ProyectoGrupo5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MelekSibrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yelsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
